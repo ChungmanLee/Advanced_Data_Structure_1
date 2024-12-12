@@ -1,5 +1,5 @@
 # COMP47500 – Advanced Data Structures in Java
-# Assignment No: 1
+# Project No: 1
 
 ## Group Details
 	2320077  - Prakash Jha
